@@ -74,7 +74,7 @@ const AuthFormTemplate = React.memo(
     const data = {
       signin: {
         title: t('Welcome Back!'),
-        description: t('Enter your email below to sign in to your account'),
+        description: t('Enter your email below by anoop yadav'),
         showNameFields: false,
       },
       signup: {
